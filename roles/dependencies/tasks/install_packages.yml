@@ -10,7 +10,7 @@
     name: "*"
     state: latest
 
-- name: install Java 11
+- name: install packages
   dnf: 
    name: 
     - vim
